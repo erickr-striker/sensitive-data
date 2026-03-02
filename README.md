@@ -1,1 +1,1 @@
-delete all the files into data folder
+AI assitance: delete all the files into data folder
