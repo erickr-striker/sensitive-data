@@ -1,0 +1,1 @@
+delete all the files into data folder
